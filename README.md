@@ -59,10 +59,13 @@ This project was professionally and knowledge-driven, designed and developed wit
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.jpg" width="200" alt=""/>
-  <img src="screenshots/2.jpg" width="200" alt=""/>
-  <img src="screenshots/3.jpg" width="200" alt=""/>
-  <img src="screenshots/4.jpg" width="200" alt=""/>
+  <img src="screenshots/cp (1).jpg" width="200" alt=""/>
+  <img src="screenshots/cp (2).jpg" width="200" alt=""/>
+  <img src="screenshots/cp (3).jpg" width="200" alt=""/>
+  <img src="screenshots/cp (4).jpg" width="200" alt=""/>
+  <img src="screenshots/cp (5).jpg" width="200" alt=""/>
+  <img src="screenshots/cp (6).jpg" width="200" alt=""/>
+  <img src="screenshots/cp (7).jpg" width="200" alt=""/>
 </p>
 
 
