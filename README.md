@@ -169,16 +169,6 @@ The clinical content within this application is informed by standard pediatric r
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Add a longitudinal motor-progress chart visualizing milestone history
-- [ ] Add a CI workflow (GitHub Actions) that runs `./gradlew build` on every PR
-- [ ] Localize UI strings (Farsi / English)
-- [ ] Add a directory of rehabilitation exercises with illustrations
-- [ ] Optional encrypted export of progress logs (PDF) for clinician review
-- [ ] Publish a v1.0.0 GitHub Release with APK asset
-
----
 
 ## 📄 Citation
 
