@@ -65,7 +65,6 @@ This project was professionally and knowledge-driven, designed and developed wit
   <img src="screenshots/4.jpg" width="200" alt=""/>
 </p>
 
-> _Replace the placeholders above with real device screenshots once available._
 
 ---
 
